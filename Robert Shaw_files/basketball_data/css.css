@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	
+	background-color: black;
+	
+}
+.container-fluid{
+	
+	padding-left: 0px;
+	padding-right: 0px;
+	
+	
+}
+
+.row{
+	padding-left: 0px;
+
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+}
+
+
+h1, h2, h3, h4 {
+	color: #fff;
+	
+}
+p{
+	
+	color: #fff;
+}
+.center{
+	
+	position: center;
+
+	text-align: center;
+}
+
+h1 {
+	
+	font-size: 100px;
+}
